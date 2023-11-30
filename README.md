@@ -33,7 +33,6 @@ Check out the Usability Interview conducted with <a href="https://drive.google.c
 Watch the recorded walkthrough of <a href="https://drive.google.com/file/d/1pD_DcjFsitp80Cl9KkOJBiYgzedemzWY/view?usp=sharing" target="_blank"> the Scholarship Sprint App </a>
 
 ## Final Presentation Slide Deck
-
 Explore 
 <a href= "https://www.canva.com/design/DAF1eK9yZ7I/e1cMQr6C1tFF_FCOA42gJw/edit" target="_blank">Final Presentation Slide Deck </a> for an overview of Scholarship Sprint's key features, development process, and outcomes.
 
