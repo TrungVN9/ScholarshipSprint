@@ -36,4 +36,6 @@ Watch the recorded walkthrough of <a href="https://drive.google.com/file/d/1pD_D
 Explore 
 <a href= "https://www.canva.com/design/DAF1eK9yZ7I/e1cMQr6C1tFF_FCOA42gJw/edit" target="_blank">Final Presentation Slide Deck </a> for an overview of Scholarship Sprint's key features, development process, and outcomes.
 
+## Final Team Report ACM Format
+For a detailed understanding of the project, please refer to the [TEAM ACT - Project Report & Update.docx](https://github.com/TrungVN9/scholarshipsprint/files/13528426/TEAM.ACT.-.Project.Report.Update.docx). This comprehensive report provides insights and updates on the project's progress in accordance with ACM format guidelines.
 
