@@ -39,3 +39,6 @@ Explore
 ## Final Team Report ACM Format
 For a detailed understanding of the project, please refer to the [TEAM ACT - Project Report & Update.docx](https://github.com/TrungVN9/scholarshipsprint/files/13528426/TEAM.ACT.-.Project.Report.Update.docx). This comprehensive report provides insights and updates on the project's progress in accordance with ACM format guidelines.
 
+## Final Presentation Video recording
+For more information about our Scholarship Sprint Mobile Application Prototype, please <a href="https://youtu.be/vv1iGMa780o" target="_blank"> Enjoy Scholarship Sprint Video </a> that we recoreded. 
+
